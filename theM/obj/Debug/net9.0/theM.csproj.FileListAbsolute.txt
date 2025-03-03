@@ -1,0 +1,15 @@
+/home/bidiu/development/JazzGenerator/jazzgen/theM/bin/Debug/net9.0/theM
+/home/bidiu/development/JazzGenerator/jazzgen/theM/bin/Debug/net9.0/theM.deps.json
+/home/bidiu/development/JazzGenerator/jazzgen/theM/bin/Debug/net9.0/theM.runtimeconfig.json
+/home/bidiu/development/JazzGenerator/jazzgen/theM/bin/Debug/net9.0/theM.dll
+/home/bidiu/development/JazzGenerator/jazzgen/theM/bin/Debug/net9.0/theM.pdb
+/home/bidiu/development/JazzGenerator/jazzgen/theM/obj/Debug/net9.0/theM.GeneratedMSBuildEditorConfig.editorconfig
+/home/bidiu/development/JazzGenerator/jazzgen/theM/obj/Debug/net9.0/theM.AssemblyInfoInputs.cache
+/home/bidiu/development/JazzGenerator/jazzgen/theM/obj/Debug/net9.0/theM.AssemblyInfo.cs
+/home/bidiu/development/JazzGenerator/jazzgen/theM/obj/Debug/net9.0/theM.csproj.CoreCompileInputs.cache
+/home/bidiu/development/JazzGenerator/jazzgen/theM/obj/Debug/net9.0/theM.sourcelink.json
+/home/bidiu/development/JazzGenerator/jazzgen/theM/obj/Debug/net9.0/theM.dll
+/home/bidiu/development/JazzGenerator/jazzgen/theM/obj/Debug/net9.0/refint/theM.dll
+/home/bidiu/development/JazzGenerator/jazzgen/theM/obj/Debug/net9.0/theM.pdb
+/home/bidiu/development/JazzGenerator/jazzgen/theM/obj/Debug/net9.0/theM.genruntimeconfig.cache
+/home/bidiu/development/JazzGenerator/jazzgen/theM/obj/Debug/net9.0/ref/theM.dll
