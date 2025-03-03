@@ -1,3 +1,5 @@
-# VR
-VR Godot experiment with Godot installed on Quest3 
-TEST TEST
+
+VR Godot experiment.
+
+General idea:
+- create a VR-game whch uses ear training to facilitate combat
